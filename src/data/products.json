@@ -1,0 +1,182 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Apple MacBook Pro 14\" (M3 Pro)",
+    "price": 49990000,
+    "quantity": 12,
+    "category": "Laptops & Tablets",
+    "description": "Chip M3 Pro cực mạnh, RAM 18GB, SSD 512GB, màn hình Liquid Retina XDR sắc nét. Hoàn hảo cho lập trình viên và nhà thiết kế.",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-2",
+    "name": "iPad Pro 11\" M4 (Ultra Retina XDR)",
+    "price": 28990000,
+    "quantity": 8,
+    "category": "Laptops & Tablets",
+    "description": "Siêu mỏng nhẹ đột phá, màn hình OLED 2 lớp rực rỡ, chip M4 tối tân vượt trội mọi giới hạn hiệu năng.",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-3",
+    "name": "iPhone 15 Pro Max 256GB - Natural Titanium",
+    "price": 29990000,
+    "quantity": 15,
+    "category": "Mobile & Audio",
+    "description": "Khung vỏ Titanium siêu bền nhẹ, nút Action mới, cổng USB-C tốc độ cao và cụm camera zoom quang học 5x dẫn đầu.",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-4",
+    "name": "Sony WH-1000XM5 Noise Cancelling Headphones",
+    "price": 6490000,
+    "quantity": 25,
+    "category": "Mobile & Audio",
+    "description": "Headphone chống ồn chủ động tốt nhất thế giới, thiết kế tinh tế sang trọng cùng chất âm Hi-Res đỉnh cao.",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-5",
+    "name": "Bàn phím cơ Custom Keychron Q1 Pro QMK",
+    "price": 4490000,
+    "quantity": 10,
+    "category": "Desk Setup",
+    "description": "Khung nhôm nguyên khối phong cách CNC, kết nối không dây bluetooth, switch gõ siêu êm ái cho cảm giác gõ mê hoặc.",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-6",
+    "name": "Sony WF-1000XM5 Wireless Earbuds",
+    "price": 4990000,
+    "quantity": 20,
+    "category": "Mobile & Audio",
+    "description": "Tai nghe true wireless siêu nhỏ gọn với công nghệ chống ồn hàng đầu, âm thanh sâu lắng, chống nước IPX4.",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-7",
+    "name": "Màn hình Dell UltraSharp 27\" U2723QE 4K USB-C Hub",
+    "price": 12490000,
+    "quantity": 7,
+    "category": "Desk Setup",
+    "description": "Độ phân giải 4K IPS Black cho độ tương phản sắc đen gấp đôi, hỗ trợ sạc ngược 90W qua cổng Type C tiện lợi.",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-8",
+    "name": "Chuột Logitech MX Master 3S - Space Gray",
+    "price": 2490000,
+    "quantity": 30,
+    "category": "Desk Setup",
+    "description": "Cảm biến 8000 DPI hoạt động trên mọi bề mặt, nút cuộn điện từ MagSpeed siêu nhanh, tiếng click tĩnh lặng êm ái.",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-9",
+    "name": "Loa Bluetooth di động Marshall Emberton II",
+    "price": 3950000,
+    "quantity": 18,
+    "category": "Mobile & Audio",
+    "description": "Thiết kế hoài cổ cực sang trọng, âm thanh đa hướng True Stereophonic sống động, pin trâu đến 30 tiếng liên tục.",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-10",
+    "name": "Đèn bàn thông minh chống mỏi mắt Yeelight Pro",
+    "price": 1850000,
+    "quantity": 15,
+    "category": "Smart Home",
+    "description": "Ánh sáng giả lập tự nhiên, điều khiển giọng nói, sạc không dây 10W tích hợp cho smartphone ngay trên đế đèn.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-11",
+    "name": "Đồng hồ thông minh Garmin Venu 3",
+    "price": 11490000,
+    "quantity": 9,
+    "category": "Mobile & Audio",
+    "description": "Màn hình AMOLED rực rỡ, theo dõi sức khỏe chuyên sâu, huấn luyện viên giấc ngủ cá nhân hoá, pin lên đến 14 ngày.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-12",
+    "name": "Trạm sạc Anker Prime 6-in-1 GaN 140W",
+    "price": 2250000,
+    "quantity": 25,
+    "category": "Accessories",
+    "description": "Siêu trạm sạc để bàn sạc nhanh đồng thời 6 thiết bị, công nghệ GaN thế hệ mới bảo vệ quá nhiệt thông minh.",
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-13",
+    "name": "Tay cầm chơi game Sony DualSense Edge PS5",
+    "price": 5490000,
+    "quantity": 14,
+    "category": "Accessories",
+    "description": "Phiên bản cao cấp Pro Controller cho phép custom độ nhạy cò bấm, mặt nút mô-đun tháo rời và nút bấm phụ phía sau.",
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-14",
+    "name": "Gương cảm ứng đổi màu LED kiêm Đồng hồ",
+    "price": 1350000,
+    "quantity": 10,
+    "category": "Smart Home",
+    "description": "Chiếu sáng gương 3 chế độ màu điều chỉnh linh hoạt, màng sấy gương chống hấp hơi nước, hiện đại hóa góc phòng tắm.",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-15",
+    "name": "Bình giữ nhiệt điện thông minh Xiaomi S1 450ml",
+    "price": 890000,
+    "quantity": 40,
+    "category": "Smart Home",
+    "description": "Màn hình LCD cảm biến hiển thị nhiệt độ thực tế của nước cực nhạy, sấy giữ ấm theo cài đặt app thông minh.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-16",
+    "name": "Apple Pencil Pro (Chỉ dùng cho iPad M4 & M2 Air)",
+    "price": 3490000,
+    "quantity": 22,
+    "category": "Accessories",
+    "description": "Cảm biến lực bóp mới (squeeze), phản hồi xúc giác tinh tế và con quay hồi chuyển vẽ nghiêng viết siêu thực.",
+    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-17",
+    "name": "Đế nâng Laptop nhôm gấp gọn Ergonomic stand",
+    "price": 450000,
+    "quantity": 50,
+    "category": "Accessories",
+    "description": "Nhôm nguyên khối sơn tĩnh điện mịn, điều chỉnh 7 góc độ linh hoạt bảo vệ cột sống, đệm silicon chống xước.",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-18",
+    "name": "Đèn chụp màn hình cân bằng sáng BenQ ScreenBar",
+    "price": 3290000,
+    "quantity": 10,
+    "category": "Desk Setup",
+    "description": "Thiết kế kẹp xoay độc quyền không gây lóa màn hình, cảm biến tự điều chỉnh độ sáng bảo vệ đôi mắt suốt buổi đêm.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-19",
+    "name": "Hub chuyển đổi Belkin USB-C 11-in-1 Multiport Dock",
+    "price": 2890000,
+    "quantity": 15,
+    "category": "Accessories",
+    "description": "Mở rộng 11 cổng kết nối gồm HDMI, DP, VGA, LAN, USB, SD Card, sạc ngược lên đến 100W, đồng thời đóng vai trò là chân đế nghiêng.",
+    "image": "https://images.unsplash.com/photo-1468495244123-6c6c332eeece?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "prod-20",
+    "name": "Router Wifi 6 ASUS RT-AX53U Gigabit AX1800",
+    "price": 1590000,
+    "quantity": 12,
+    "category": "Smart Home",
+    "description": "Tốc độ cực nhanh hỗ trợ MU-MIMO và OFDMA, phủ sóng rộng toàn căn hộ, bảo vệ mạng tuyệt đối với ASUS AiProtection.",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=600&auto=format&fit=crop"
+  }
+]
