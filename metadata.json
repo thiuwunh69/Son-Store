@@ -1,5 +1,5 @@
 {
-  "name": "Son Store",
+  "name": "Lora Store",
   "description": "Trang web bán đồ công nghệ hiện đại, tối giản, tích hợp giỏ hàng nhanh chóng và quản lý đơn hàng qua Google Sheets.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
